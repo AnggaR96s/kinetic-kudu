@@ -1,0 +1,31 @@
+name: Docker Build
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Update source
+      run: |
+        bash kinetic.sh
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: update ubuntu base
+        commit_options: '--no-verify --signoff'
+        repository: .
+        commit_user_name: Angga
+        commit_user_email: angga@linuxmail.org
+        commit_author: Angga <angga@linuxmail.org>
+    - name: Build and Publish to Dockerhub
+      uses: elgohr/Publish-Docker-Github-Action@master
+      with:
+        name: gengkapak/kinetic
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+        tags: latest
