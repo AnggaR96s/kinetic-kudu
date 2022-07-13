@@ -1,6 +1,6 @@
 adduser	3.121ubuntu1
 apt	2.5.1
-base-files	12.2ubuntu1
+base-files	12.2ubuntu2
 base-passwd	3.5.52build1
 bash	5.1-6ubuntu1
 bsdutils	1:2.38-4ubuntu1
