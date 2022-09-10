@@ -64,10 +64,10 @@ libsepol2:amd64	3.4-2
 libsmartcols1:amd64	2.38-4ubuntu1
 libss2:amd64	1.46.5-2ubuntu2
 libstdc++6:amd64	12.2.0-1ubuntu1
-libsystemd0:amd64	251.4-1ubuntu3
+libsystemd0:amd64	251.4-1ubuntu4
 libtasn1-6:amd64	4.18.0-4build1
 libtinfo6:amd64	6.3+20220423-2
-libudev1:amd64	251.4-1ubuntu3
+libudev1:amd64	251.4-1ubuntu4
 libunistring2:amd64	1.0-1
 libuuid1:amd64	2.38-4ubuntu1
 libxxhash0:amd64	0.8.1-1
@@ -88,7 +88,7 @@ sgml-base	1.30
 sysvinit-utils	3.04-1ubuntu1
 tar	1.34+dfsg-1build3
 ubuntu-keyring	2021.03.26
-usrmerge	29ubuntu1
+usrmerge	29ubuntu2
 util-linux	2.38-4ubuntu1
 util-linux-extra	2.38-4ubuntu1
 zlib1g:amd64	1:1.2.11.dfsg-4.1ubuntu1
