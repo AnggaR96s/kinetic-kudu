@@ -1,5 +1,5 @@
-0a84991cf151a6a160737c37b5e14e36 *ubuntu-kinetic-core-cloudimg-amd64-root.tar.gz
-d7e3ca434c90093597eb19f85dacb4a7 *ubuntu-kinetic-core-cloudimg-arm64-root.tar.gz
-69c4160e98447e9e981ad21b1c060105 *ubuntu-kinetic-core-cloudimg-armhf-root.tar.gz
-58b7e2bc1a995a521216c809e3c5527f *ubuntu-kinetic-core-cloudimg-ppc64el-root.tar.gz
-dfe1d428f578e770afdbbe136813a971 *ubuntu-kinetic-core-cloudimg-s390x-root.tar.gz
+c840d8f07854a75c779922593e46f701 *ubuntu-kinetic-core-cloudimg-amd64-root.tar.gz
+cec1f41fa0863e6b68416b10848cffab *ubuntu-kinetic-core-cloudimg-arm64-root.tar.gz
+feabf9cd971b06e65d5bc437aa181218 *ubuntu-kinetic-core-cloudimg-armhf-root.tar.gz
+453752f400b38dd0dfc3e507ae56957b *ubuntu-kinetic-core-cloudimg-ppc64el-root.tar.gz
+50789e6e29439c4dad62fe92bbd803b7 *ubuntu-kinetic-core-cloudimg-s390x-root.tar.gz
