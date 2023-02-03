@@ -49,10 +49,10 @@ libncurses6:amd64	6.3+20220423-2
 libncursesw6:amd64	6.3+20220423-2
 libnettle8:amd64	3.8.1-2
 libp11-kit0:amd64	0.24.1-1ubuntu2
-libpam-modules:amd64	1.5.2-2ubuntu1
-libpam-modules-bin	1.5.2-2ubuntu1
-libpam-runtime	1.5.2-2ubuntu1
-libpam0g:amd64	1.5.2-2ubuntu1
+libpam-modules:amd64	1.5.2-2ubuntu1.1
+libpam-modules-bin	1.5.2-2ubuntu1.1
+libpam-runtime	1.5.2-2ubuntu1.1
+libpam0g:amd64	1.5.2-2ubuntu1.1
 libpcre2-8-0:amd64	10.40-1ubuntu1
 libpcre3:amd64	2:8.39-14
 libprocps8:amd64	2:3.3.17-7ubuntu1
